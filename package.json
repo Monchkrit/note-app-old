@@ -4,12 +4,13 @@
   "private": true,
   "dependencies": {
     "axios": "^0.18.1",
-    "eslint-utils": "^1.4.2",
-    "mime": "^2.4.3",
+    "eslint-utils": "^1.4.3",
+    "lodash": "^4.17.15",
+    "mime": "^2.4.6",
     "mixin-deep": "^2.0.1",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-scripts": "^3.0.1"
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.1"
   },
   "devDependencies": {},
   "scripts": {
