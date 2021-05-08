@@ -5,7 +5,7 @@
   "dependencies": {
     "axios": "^0.18.1",
     "eslint-utils": "^1.4.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "mime": "^2.4.6",
     "mixin-deep": "^2.0.1",
     "react": "^16.13.1",
